@@ -1,0 +1,5 @@
+git init -> Inicializa repositorio
+git status ->Revisa si hay cambios
+git add -A
+git commit -m "Mensaje a mostrar"
+git log -> lista de los commits 
