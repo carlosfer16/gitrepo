@@ -3,3 +3,6 @@ git status ->Revisa si hay cambios
 git add -A
 git commit -m "Mensaje a mostrar"
 git log -> lista de los commits 
+git log>logs.txt -> Nos muestra todos los commits en un txt
+git checkout IDcommit -> Nos manda a el commit que le especifiquemos
+git checkout master -> Nos manda a el ultimo commit que se realizo

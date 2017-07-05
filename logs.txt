@@ -1,0 +1,23 @@
+commit d535c13b2ff9e129b7d6fb4c1794b4191148d51c
+Author: Fernando Medina <carlos_1548_@hotmail.com>
+Date:   Tue Jul 4 09:53:08 2017 -0600
+
+    Se agrego Bootstrap
+
+commit b4836a2c1597e856f67051e35ce20ce39b1f4522
+Author: Fernando Medina <carlos_1548_@hotmail.com>
+Date:   Tue Jul 4 09:49:26 2017 -0600
+
+    Se agrego footer a la pagina
+
+commit 86f6e7af06ed80b923e438b22a68ebb7be9a0bf2
+Author: Fernando Medina <carlos_1548_@hotmail.com>
+Date:   Tue Jul 4 09:45:04 2017 -0600
+
+    Se agrego imagen y descripcion a la pagina
+
+commit f35bc94734d70c22ab52a7ada37944868955c22e
+Author: Fernando Medina <carlos_1548_@hotmail.com>
+Date:   Tue Jul 4 09:40:28 2017 -0600
+
+    Proyecto con estructura inicial
